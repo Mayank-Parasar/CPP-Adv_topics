@@ -1,3 +1,5 @@
-./notes.txt
-./example.cpp
-./example2.cpp
+notes.txt
+example.cpp
+example2.cpp
+.DS_Store
+Custom_string_library/.DS_Store
